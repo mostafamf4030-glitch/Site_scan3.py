@@ -56,7 +56,7 @@ python3 Site_scan2.py
 
 Run the scanner (example):
 
-python3 site_scan2.py
+python3 Site_scan2.py
 
 When prompted enter a domain or IP (e.g. example.com or 192.168.1.1).
 این برنامه از تو می‌پرسد که آیا مالک سایت هستی — حتماً تأیید کن تا ادامه بده.
