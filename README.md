@@ -40,14 +40,14 @@ requests>=2.28 rich>=13.0
 
 ## [→] Installation | نصب
 ```bash
-https://github.com/mostafapanahi2009-star/Site_scan3.py.git
-cd site_scan3.py
+pkg install git -y
+pkg install python -y
 
-# optional virtual env
-python3 -m venv .venv
-source .venv/bin/activate
+git clone https://github.com/mostafapanahi2009-star/Site_scan3.py.git
+cd Site_scan3.py
 
 pip install -r requirements.txt
+python3 site_scan2.py
 
 
 ---
