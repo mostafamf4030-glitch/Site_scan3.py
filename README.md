@@ -41,20 +41,21 @@ requests>=2.28 rich>=13.0
 ## [→] Installation | نصب
 ```bash
 pkg install git -y
+
 pkg install python -y
 
 git clone https://github.com/mostafapanahi2009-star/Site_scan3.py.git
+
 cd Site_scan3.py
 
 pip install -r requirements.txt
+
 python3 Site_scan2.py
 
 
 ---
 
 [!] Usage | اجرا
-
-Run the scanner (example):
 
 python3 Site_scan2.py
 
